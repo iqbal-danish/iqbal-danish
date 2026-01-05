@@ -1,15 +1,8 @@
-## Hi there 👋
+# 👋 Hi, I'm Danish Iqbal
 
-<!--
-**iqbal-danish/iqbal-danish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 👋 Hi, I'm Danish Iqbal
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dishu1985\&style=flat)
-![Followers](https://img.shields.io/github/followers/Dishu1985?style=flat)
-![Stars](https://img.shields.io/github/stars/Dishu1985?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=iqbal-danish\&style=flat)
+![Followers](https://img.shields.io/github/followers/iqbal-danish?style=flat)
+![Stars](https://img.shields.io/github/stars/iqbal-danish?style=flat)
 
 ---
 
@@ -71,12 +64,3 @@ Feel free to explore, fork, or reach out if you’d like to collaborate.
 ⭐ If you find something useful, consider giving a star!
 
 ---
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
